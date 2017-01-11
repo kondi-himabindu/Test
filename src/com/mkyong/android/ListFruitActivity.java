@@ -14,7 +14,7 @@ public class ListFruitActivity extends ListActivity {
 
 	static final String[] FRUITS = new String[] { "Apple", "Avocado", "Banana",
 			"Blueberry", "Coconut", "Durian", "Guava", "Kiwifruit",
-			"Jackfruit", "Mango", "Olive", "Pear", "Sugar-apple" };
+			"Jackfruit", "Mango", "Olive", "Pear", "Sugar-apple","test" };
 
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
