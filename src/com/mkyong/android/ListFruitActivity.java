@@ -15,7 +15,7 @@ public class ListFruitActivity extends ListActivity {
 	static final String[] FRUITS = new String[] { "Apple", "Avocado", "Banana",
 			"Blueberry", "Coconut", "Durian", "Guava", "Kiwifruit",
 
-			"Jackfruit", "Mango", "Olive", "Pear", "Sugar-apple","test" , };
+			"Jackfruit", "Mango", "Olive", "Pear", "Sugar-apple","test", };
 
 
 	@Override
